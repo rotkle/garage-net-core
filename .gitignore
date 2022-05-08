@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Garage/.vs/Garage/v16
+/Garage/Garage.Api/bin/Debug/netcoreapp3.1
+/Garage/Garage.Api/obj
